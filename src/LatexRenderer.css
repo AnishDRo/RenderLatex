@@ -1,0 +1,17 @@
+/* Table Styles */
+.latex-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.latex-table, .latex-th, .latex-td {
+  border: 1px solid #ccc;
+}
+
+.latex-th, .latex-td {
+  padding: 8px;
+  text-align: left;
+}
+
+/* Optional: Add styles for other elements as needed */
